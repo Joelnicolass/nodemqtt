@@ -1,0 +1,19 @@
+{
+  "name": "mqtt-node",
+  "version": "1.0.0",
+  "main": "broker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsonschema": "^1.2.6",
+    "mosca": "^2.8.3",
+    "mqtt": "^4.3.6",
+    "serialport": "9.2.8"
+  },
+  "devDependencies": {},
+  "description": ""
+}
